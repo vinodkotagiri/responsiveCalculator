@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
+
+body{
+    background-color:steelblue;
+}
+
+#title{
+    text-align: center;
+    color:whitesmoke;
+    padding-top:16px;
+}
+#description{
+    text-align: center;
+    color:lightgray;
+}
+.calc-container{
+    min-width: 800px;
+    background-color:whitesmoke;
+    padding:32px;
+    margin-top:16px;
+    border:1px solid whitesmoke;
+    border-radius: 16px;
+    box-shadow:2px 2px 2px 2px whitesmoke;
+}
+.display-wrapper{
+    margin:8px;
+}
+
+#result{
+    height:64px;
+    padding:8px;
+    margin-top:0px;
+    font-family: 'Poppins',sans-serif;
+    text-align: right;
+    font-weight:bold;
+    font-size: 2.5rem;
+}
+
+.btn{
+    border:1px solid lightgray;
+}
