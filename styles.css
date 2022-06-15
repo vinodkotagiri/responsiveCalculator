@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
 
 body{
-    background-color:steelblue;
+    background-color:steelblue; 
 }
 
 #title{
@@ -14,7 +14,6 @@ body{
     color:lightgray;
 }
 .calc-container{
-    min-width: 800px;
     background-color:whitesmoke;
     padding:32px;
     margin-top:16px;
